@@ -3,7 +3,7 @@ import Link from "next/link";
 
 const screenshots = [
   {
-    src: "/project-shots/token-counter/example-test-1.png",
+    src: "/project-shots/token-counter/Example-test-1.png",
     alt: "Example text input with gpt-4o",
     caption: "Input example into gpt-4o",
   },
