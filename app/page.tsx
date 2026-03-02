@@ -216,6 +216,24 @@ export default function Home() {
                     practice delivery and testing.
                   </span>
                 </li>
+                  <li className="flex gap-2">
+                    <span
+                      className="mt-2 h-1.5 w-1.5 rounded-full bg-zinc-300"
+                      aria-hidden
+                    />
+                    <span>
+                      GitHub Contribution Visualiser – interactive heatmap of GitHub activity.
+                    </span>
+                  </li>
+                  <li className="flex gap-2">
+                    <span
+                      className="mt-2 h-1.5 w-1.5 rounded-full bg-zinc-300"
+                      aria-hidden
+                    />
+                    <span>
+                      LLM Token Visualiser – OpenAI tokenisation explorer with cost estimation.
+                    </span>
+                  </li>
               </ul>
             </div>
           </div>
