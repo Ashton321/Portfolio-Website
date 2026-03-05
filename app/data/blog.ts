@@ -17,7 +17,7 @@ export const blogPosts: BlogPostMeta[] = [
     title: "LLMs & Generative AI",
     date: "March 2026",
     excerpt:
-      "A mid-level walkthrough of how large language models actually work — from tokenisation and transformers to RAG, alignment, and where they fit inside real software systems.",
+      "A high-level walkthrough of how large language models work — from tokenisation and transformers to training and inference.",
     tags: ["LLMs", "AI", "Machine Learning"],
   },
 ];
